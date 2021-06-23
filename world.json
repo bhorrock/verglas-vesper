@@ -1,0 +1,22 @@
+{
+  "name": "verglas-vesper",
+  "title": "Icewind Dale : RotFM",
+  "description": "<p>D&amp;D 5e Icewind Dale / Rime of the Frostmaiden. </p>\n<p>Assets and modifications for running a campaign</p>",
+  "authors": [],
+  "flags": {},
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.5",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.7",
+  "resetKeys": false,
+  "safeMode": false
+}
