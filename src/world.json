@@ -6,6 +6,7 @@
   "flags": {},
   "url": "https://github.com/bhorrock/verglas-vesper/src/",
   "manifest": "https://raw.githubusercontent.com/bhorrock/verglas-vesper/main/src/world.json",
+  "download": "https://github.com/bhorrock/verglas-vesper/dist/dev-build.zip",
   "version": "0.1.0",
   "minimumCoreVersion": "0.8.5",
   "compatibleCoreVersion": "1.0.0",
